@@ -40,7 +40,7 @@ world_data = [
     [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
 ]
 
-class World():
+class World:
     def __init__(self, data):
         self.tile_list = []
 
